@@ -1,0 +1,16 @@
+{
+  "name": "sita-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d root"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://DavidCJAdindu.github.io/sita-portfolio",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
